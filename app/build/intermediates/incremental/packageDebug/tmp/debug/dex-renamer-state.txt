@@ -1,4 +1,4 @@
-#Wed Jul 10 15:34:07 IRST 2024
+#Wed Jul 10 16:41:06 IRST 2024
 base.0=/Users/sajjadfatehi/AndroidStudioProjects/ProductApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/sajjadfatehi/AndroidStudioProjects/ProductApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.10=/Users/sajjadfatehi/AndroidStudioProjects/ProductApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/7/classes.dex
